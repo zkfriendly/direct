@@ -4,10 +4,10 @@ Direct is a decentralized messaging application that enables secure, private com
 
 ## Features
 
-- **Truly Decentralized**: Messages are transmitted directly between peers without relying on central servers
-- **Privacy-Focused**: End-to-end encryption ensures your conversations remain private
-- **Censorship Resistant**: No central authority can block or control your communications
-- **Built on Waku**: Leverages the Waku protocol for reliable p2p message routing
+- [ ] **Truly Decentralized**: Messages are transmitted directly between peers without relying on central servers
+- [ ] **Privacy-Focused**: End-to-end encryption ensures your conversations remain private
+- [ ] **Censorship Resistant**: No central authority can block or control your communications
+- [ ] **Built on Waku**: Leverages the Waku protocol for reliable p2p message routing
 
 ## Development Setup
 
